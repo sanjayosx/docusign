@@ -1,4 +1,4 @@
-<?php namespace Tjphippen\Docusign\Facades;
+<?php namespace Laravel10\Docusign\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
