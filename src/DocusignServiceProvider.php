@@ -1,4 +1,4 @@
-<?php namespace Tjphippen\Docusign;
+<?php namespace  Laravel10\Docusign;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
