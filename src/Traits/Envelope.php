@@ -1,4 +1,4 @@
-<?php namespace Tjphippen\Docusign\Traits;
+<?php namespace  Laravel10\Docusign\Traits;
 
 use Docusign;
 use Carbon\Carbon;
