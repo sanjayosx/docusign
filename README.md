@@ -1,4 +1,4 @@
-# DocuSign for Laravel 8
+# DocuSign for Laravel 10
 
 <dl>
   <dt>This package was developed to utilize e-contract/signatures directly within a Laravel based CRM. </dt>
