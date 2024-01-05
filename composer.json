@@ -35,7 +35,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tjphippen/docusign"
+            "url": "https://github.com/sanjayosx/docusign"
         }
     ],
     "extra": {
